@@ -1,0 +1,13 @@
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\bin\Debug\LibreriaVisualFinal.dll
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\bin\Debug\LibreriaVisualFinal.pdb
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\LibreriaVisualFinal.csproj.AssemblyReference.cache
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\VisorProgreso.g.cs
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\LibreriaVisualFinal_MarkupCompile.cache
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\LibreriaVisualFinal_MarkupCompile.lref
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\VisorProgreso.baml
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\Themes\Generic.baml
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\LibreriaVisualFinal.g.resources
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\LibreriaVisualFinal.csproj.CoreCompileInputs.cache
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\LibreriaVisualFinal.dll
+C:\Users\sbuegon0702\Documents\proyectoFinal2\LibreriaVisualFinal\obj\Debug\LibreriaVisualFinal.pdb

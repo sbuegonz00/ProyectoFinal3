@@ -1,0 +1,6 @@
+Este directorio se genera al compilar la solución en Windows (Visual Studio).
+
+Al compilar, aquí debe aparecer:
+ - LibreriaVisualFinal.dll
+
+Nota: En este entorno (Linux) no se genera automáticamente la DLL de WPF (.NET Framework).

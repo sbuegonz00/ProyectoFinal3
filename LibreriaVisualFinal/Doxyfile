@@ -1,0 +1,145 @@
+# Doxyfile 1.9.x - Configuración para Librería de Controles WPF
+# Generado para documentación IntelliSense y manual de la librería
+
+#---------------------------------------------------------------------------
+# Configuración del Proyecto
+#---------------------------------------------------------------------------
+
+# Nombre del proyecto (personalizado según instrucciones)
+PROJECT_NAME           = "Librería de Controles - Sebastian Bueno González"
+
+# Número de versión del proyecto
+PROJECT_NUMBER         = 1.0
+
+# Breve descripción del proyecto
+PROJECT_BRIEF          = "Librería de controles visuales personalizados para WPF"
+
+# Logo del proyecto (opcional)
+PROJECT_LOGO           = 
+
+# Directorio de salida para la documentación generada
+OUTPUT_DIRECTORY       = ./docs
+
+# Idioma de la documentación
+OUTPUT_LANGUAGE        = Spanish
+
+#---------------------------------------------------------------------------
+# Configuración de Entrada
+#---------------------------------------------------------------------------
+
+# Directorios de entrada con el código fuente
+INPUT                  = .
+
+# Patrones de archivos a incluir
+FILE_PATTERNS          = *.cs *.xaml
+
+# Buscar recursivamente en subdirectorios
+RECURSIVE              = YES
+
+# Codificación de los archivos fuente
+INPUT_ENCODING         = UTF-8
+
+# Excluir directorios (obj, bin, etc.)
+EXCLUDE                = ./obj ./bin
+
+#---------------------------------------------------------------------------
+# Configuración de Extracción
+#---------------------------------------------------------------------------
+
+# Extraer todos los elementos (incluso sin documentación)
+EXTRACT_ALL            = YES
+
+# Extraer miembros privados
+EXTRACT_PRIVATE        = YES
+
+# Extraer miembros estáticos
+EXTRACT_STATIC         = YES
+
+# Extraer miembros locales
+EXTRACT_LOCAL_CLASSES  = YES
+
+# Extraer métodos anónimos
+EXTRACT_ANON_NSPACES   = NO
+
+#---------------------------------------------------------------------------
+# Configuración de Generación
+#---------------------------------------------------------------------------
+
+# Generar documentación HTML
+GENERATE_HTML          = YES
+
+# Directorio de salida HTML
+HTML_OUTPUT            = html
+
+# Generar índice de árbol HTML
+GENERATE_TREEVIEW      = YES
+
+# Generar documentación LaTeX (desactivado)
+GENERATE_LATEX         = NO
+
+# Generar documentación RTF (desactivado)
+GENERATE_RTF           = NO
+
+# Generar documentación XML
+GENERATE_XML           = YES
+
+# Directorio de salida XML
+XML_OUTPUT             = xml
+
+#---------------------------------------------------------------------------
+# Configuración de Preprocesador
+#---------------------------------------------------------------------------
+
+# Habilitar preprocesador
+ENABLE_PREPROCESSING   = YES
+
+# Expandir macros
+MACRO_EXPANSION        = NO
+
+#---------------------------------------------------------------------------
+# Configuración de Diagramas
+#---------------------------------------------------------------------------
+
+# Generar diagramas de clases
+CLASS_DIAGRAMS         = YES
+
+# Usar DOT para generar gráficos (requiere Graphviz)
+HAVE_DOT               = NO
+
+#---------------------------------------------------------------------------
+# Configuración Adicional
+#---------------------------------------------------------------------------
+
+# Ordenar miembros por nombre
+SORT_MEMBER_DOCS       = YES
+
+# Mostrar archivos incluidos
+SHOW_INCLUDE_FILES     = YES
+
+# Mostrar espacios de nombres
+SHOW_NAMESPACES        = YES
+
+# Generar lista de tareas pendientes (TODO)
+GENERATE_TODOLIST      = YES
+
+# Generar lista de bugs
+GENERATE_BUGLIST       = YES
+
+# Usar Markdown
+MARKDOWN_SUPPORT       = YES
+
+# Advertir sobre documentación incompleta
+WARN_IF_UNDOCUMENTED   = YES
+
+# Archivo de log de advertencias
+WARN_LOGFILE           = doxygen_warnings.log
+
+#---------------------------------------------------------------------------
+# Optimización para C#
+#---------------------------------------------------------------------------
+
+# Optimizar para lenguajes similares a Java (C#)
+OPTIMIZE_OUTPUT_JAVA   = YES
+
+# Extensión de archivos fuente
+EXTENSION_MAPPING      = cs=C#

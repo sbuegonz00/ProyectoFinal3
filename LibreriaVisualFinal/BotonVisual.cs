@@ -5,6 +5,15 @@ using System.Windows.Media;
 
 namespace LibreriaVisualFinal
 {
+    /// <summary>
+    /// Control personalizado que hereda de Button.
+    /// Cambia su color de fondo aleatoriamente al ser presionado.
+    /// </summary>
+    /// <remarks>
+    /// Este control utiliza la clase <see cref="Random"/> para generar colores RGB.
+    /// Es útil para demostraciones de controles personalizados (Custom Controls).
+    /// </remarks>
+    /// <author>Cloud Agent</author>
     public class BotonVisual : Button
     {
         private readonly Random _random = new Random();

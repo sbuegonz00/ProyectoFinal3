@@ -1,0 +1,13 @@
+# Doxyfile mínimo para Librería de Controles
+PROJECT_NAME           = "Librería de Controles - Salvador Bueno González"
+OUTPUT_DIRECTORY       = docs
+CREATE_SUBDIRS         = NO
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+OPTIMIZE_OUTPUT_FOR_CSHARP = YES
+INPUT                  = LibreriaVisualFinal
+FILE_PATTERNS          = *.cs *.xaml
+QUIET                  = NO
+GENERATE_TREEVIEW      = YES

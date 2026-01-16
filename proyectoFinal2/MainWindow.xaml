@@ -222,7 +222,7 @@
                     </Button>
                     
                     <final:BotonVisual x:Name="btnAccionVisual" Content="Lanzar Accion Visual" Height="45" Style="{x:Null}" />
-                    <final:BotonVisual x:Name="btnAccionVisual" Content="Lanzar Accion Visual" Height="45" Style="{x:Null}" />
+                    
                     <final:VisorProgreso x:Name="miVisor" Margin="0,12,0,0" />
                     <Button Name="btnLimpiar" Background="{StaticResource AccentBrush}" Click="btnLimpiar_Click" ToolTip="Limpia el formulario para crear nuevo">
                         <StackPanel Orientation="Horizontal">
